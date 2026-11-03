@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ซีนลิงก์ — โปรโมตวิดีโอจากลิงก์ X",
+      "hasCanvas": false,
+      "bodyTextLen": 705,
+      "bodyTextHash": "ed91bad6fdf6d3fe3e93c991404e42ce5b7ada2e9067c47957038be3964c5c9d",
+      "bodyTextPrefix": "ซีนลิงก์ โปรโมทจากลิงก์ X สตูดิโอโปรโมทคลิป วางลิงก์จาก X แล้วได",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ซีนลิงก์ — โปรโมตวิดีโอจากลิงก์ X",
+      "hasCanvas": false,
+      "bodyTextLen": 705,
+      "bodyTextHash": "ed91bad6fdf6d3fe3e93c991404e42ce5b7ada2e9067c47957038be3964c5c9d",
+      "bodyTextPrefix": "ซีนลิงก์ โปรโมทจากลิงก์ X สตูดิโอโปรโมทคลิป วางลิงก์จาก X แล้วได",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
